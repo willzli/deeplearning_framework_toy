@@ -1,5 +1,5 @@
 # dl_frame_toy
-演示深度学习框架内部工作核心原理。
+演示深度学习框架内部工作原理。
 </br>
 Demonstrate the core working principles of the deep learning framework.
 </br>
