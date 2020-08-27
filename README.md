@@ -14,8 +14,9 @@ Usage：
 </br>
 python logistic_regression_demo.py
 </br>
+</br>
 
-demo show:
+Demo show:
 ```
 Epoch: 0, Learning rate: 0.01, Loss: 426.714349
 Epoch: 1000, Learning rate: 0.01, Loss: 0.897318
